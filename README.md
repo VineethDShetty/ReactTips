@@ -2,6 +2,9 @@
 
 ### Modules
 1. React Toastify
+2. React Charts
+
+Want a Demo of the React Snippets Click here https://codesandbox.io/u/vineethdshetty
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-VineethDShetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineethdshetty/)](https://www.linkedin.com/in/vineethdshetty/)
